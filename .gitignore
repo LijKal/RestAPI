@@ -42,4 +42,4 @@ venv/
 !.elasticbeanstalk/*.global.yml
 ssh_key_udacity_ec2_2.pem
 udacity-c2-restapi.postman_collection.json
-src/config/*
+src/config/
